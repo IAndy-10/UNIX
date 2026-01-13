@@ -1,0 +1,8 @@
+# Build
+/build
+.DS_Store
+cmake_install.cmake
+/CMakeFiles
+CMakeCache.txt
+dr_wav.h
+Makefile
