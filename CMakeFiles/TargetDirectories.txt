@@ -1,0 +1,10 @@
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/wav-write.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/wav-read.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/sine-sweep.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/impulse-sweep.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/sawtooth.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/sawtooth-sweep.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/square.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/square-sweep.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/edit_cache.dir
+/Users/italo/Desktop/C++/UNIX/CMakeFiles/rebuild_cache.dir
